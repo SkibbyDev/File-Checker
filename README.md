@@ -1,4 +1,5 @@
 a File checker written in bash.
+
 -------------------------------
 # How to use?
 - install the "file-checker.sh" file
